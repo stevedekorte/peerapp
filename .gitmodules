@@ -1,0 +1,3 @@
+[submodule "strvct"]
+	path = strvct
+	url = https://github.com/stevedekorte/strvct.net.git

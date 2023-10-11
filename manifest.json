@@ -1,0 +1,16 @@
+{
+    "short_name": "Havewords",
+    "name": "Havewords",
+    "description": "",
+    "icons": [
+        {
+          "src": "strvct/resources/images/appicon-black-600x600.png",
+          "type": "image/png",
+          "sizes": "600x600"
+        }
+    ],
+    "start_url": "index.html",
+    "background_color": "#317EFB",
+    "display": "standalone",
+    "theme_color": "#aaa"
+}
